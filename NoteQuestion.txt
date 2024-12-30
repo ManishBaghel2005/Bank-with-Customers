@@ -1,0 +1,27 @@
+Customer Demographics Analysis
+What is the average age of customers in the dataset?
+How many customers are from each geography (e.g., France, Germany, Spain)?
+What is the gender distribution of customers?
+
+
+Customer Behavior Analysis
+What is the average credit score of customers who exited vs. those who didn't?
+Is there a correlation between age and balance or salary?
+What percentage of customers are active members and have credit cards?
+
+
+Product and Services Analysis
+How many customers have more than one product?
+What is the average balance for customers with different numbers of products?
+Does tenure affect the number of products or balances?
+
+
+Customer Retention
+What is the percentage of customers who exited (churn rate)?
+Which geography has the highest churn rate?
+What is the churn rate based on credit score, age group, or gender?
+
+
+Salary and Balance Insights
+What is the average estimated salary of customers?
+Is there any significant difference in balance based on whether a customer exited?
